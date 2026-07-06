@@ -1,0 +1,3 @@
+[submodule "lab6/lab6/lab6base"]
+	path = lab6/lab6/lab6base
+	url = git@github.com:SFU-CMPT-201/lab6base.git
